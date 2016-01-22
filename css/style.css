@@ -1,0 +1,149 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  outline-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Proxima Nova";
+}
+
+.clear {
+  clear: both;
+}
+.white {
+  color: white;
+}
+header {
+  max-width: 1300px;
+  height: 600px;
+  text-align: center;
+  background-image: url("../images/banner.png");
+}
+#B {
+  border: 1px solid;
+  margin-right: 10px;
+  padding: 2px 4px;
+}
+.bonsai {
+  float: left;
+  padding : 10px;
+  font-size: 1.2em;
+  letter-spacing: 0.5px;
+}
+.liens {
+  float: right;
+  padding : 10px;
+  font-size: 0.8em;
+}
+.login {
+  padding-right: 20px;
+}
+.liens a {
+  text-decoration: none;;
+}
+header p {
+  padding: 30px 0;
+}
+header h1 {
+  padding-top: 4em;
+}
+.btn {
+  background-color: white;
+  padding: 10px 40px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.btn a {
+  color: #9299D7;
+}
+main {
+  max-width: 1300px;
+}
+.section1 {
+  text-align: center;
+  height: 310px;
+  border-bottom: 1px solid #CCCCCC;
+}
+.section1 div {
+  width: 33%;
+  display: inline-block;
+  margin: 50px 0;
+}
+.images {
+  border-left: 1px solid #CCCCCC;
+  border-right: 1px solid #CCCCCC;
+}
+.section1 h3 {
+  color: #7F8FA4;
+  padding: 20px 0 15px 0;
+}
+.section1 p {
+    color: #98A0B4;
+}
+.section2 {
+  height: 310px;
+  background-color: #F6F9FB;
+  text-align: center;
+  padding: 80px 0;
+}
+.section2 h3 {
+  color: #9B94A0;
+  font-weight: normal;
+  font-size: 1.5em;
+  line-height: 30px;
+}
+#dollar {
+  color: #8080BE;
+  font-size: 4em;
+  display: inline-block;
+}
+.perpaid {
+  display: inline-block;
+  color: #515151;
+  text-align: left;
+  margin-top: 30px;
+  font-size: 1.5em;
+}
+.perpaid .p1 {
+  color: #515151;
+  font-size: 1.2em;
+}
+.perpaid .p2{
+    color: #BDBABD;
+    font-size: 0.8em;
+}
+.bold {
+  font-weight: bold;
+}
+.section3 {
+  height: 100px;
+  background-color: #4C535C;
+  text-align: center;
+  padding: 35px 0;
+}
+.section3 p {
+  color: white;
+  font-size: 1.5em;
+}
+.section4 img {
+  width: 49%;
+display: inline-block;
+}
+.section4 article {
+    width: 49%;
+  display: inline-block;
+  }
+  .section4 article {
+  height: 480px;
+  text-align: center;
+  padding: 150px 100px;
+  vertical-align: top;
+  font-size: 1.5em;
+}
+.section4 img {
+  height: 480px;
+}
+.bleu {
+  background-color: #7CD5EF;
+}
